@@ -1,0 +1,6 @@
+
+[tool.mypy]
+cache_dir = ".cache/.mypy_cache"
+
+[tool.pytest.ini_options]
+cache_dir = ".cache/.pytest_cache"
