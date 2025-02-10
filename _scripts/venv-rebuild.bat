@@ -3,7 +3,6 @@
 setlocal EnableDelayedExpansion
 
 set "PROJECT_DIR=%~dp0.."
-set "COLLEGE_DIR=C:\Users\%USERNAME%\Documents\College"
 
 cd "%PROJECT_DIR%"
 if exist _venv (
